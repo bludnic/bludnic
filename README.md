@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**bludnic/bludnic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a dedicated JavaScript Developer, specializing in TypeScript, React, Vue, and Node.js. I stay updated with the latest development trends to keep my skills sharp.
 
-Here are some ideas to get you started:
+I actively contribute to open-source projects like [ADAMANT Messenger](https://github.com/adamant-im/adamant-im) and [OpenTrader](https://github.com/bludnic/opentrader). If you are a trader, you may be interested in OpenTrader, an open-source crypto trading bot that I'm actively developing. Here are the key features:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **✨ Robust UI:** A user-friendly interface for managing the bots.
+- **📊 Builtin Strategies:** Highly configurable trading strategies:
+  - **📈 GridBot Strategy:** Buy and sell at predefined intervals to profit from market fluctuations.
+  - **📉 RSI Strategy:** Place orders based on the RSI indicator value.
+- **🛠️ Custom Strategies:** Create your own strategy in a few lines of code (powered by an auto-generated UI).
+- **🌐 Multiple Exchanges:** Trade across various cryptocurrency exchanges.
+- **⚙️ Easy Installation:** Install effortlessly via NPM for a streamlined setup process.
+
+<p align="center">
+  <a href="https://github.com/bludnic/opentrader#readme" title="Try the bot">
+    <img src="https://img.shields.io/badge/Try%20the%20bot-37a779?style=for-the-badge" alt="Try the bot" width="128" />
+  </a>
+</p>
+
+![UI Preview](https://github.com/bludnic/opentrader/raw/dev/.github/images/ui.png)
+
+# Connect with me 📧
+
+For partnership, or if you need help installing the bot, contact me at contact@opentrader.pro. I'm always ready to help 😉.
