@@ -26,3 +26,8 @@ For partnership, or if you need help installing the bot, don't hesitate to conta
 
 - 📧 [E-mail](mailto:contact@opentrader.pro)
 - 💬 [Telegram](https://t.me/+cJLNxLSjcW83Njgy)
+
+# Stats
+
+![](https://komarev.com/ghpvc/?username=bludnic)
+![](https://img.shields.io/github/followers/bludnic?label=follow&logo=github&style=flat)
