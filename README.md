@@ -10,6 +10,7 @@ I actively contribute to open-source projects like [ADAMANT Messenger](https://g
   - **📉 RSI Strategy:** Place orders based on the RSI indicator value.
 - **🛠️ Custom Strategies:** Create your own strategy in a few lines of code (powered by an auto-generated UI).
 - **🌐 Multiple Exchanges:** Trade across various cryptocurrency exchanges.
+- **📝 Paper Trading**: Test your strategies without risking real money.
 - **⚙️ Easy Installation:** Install effortlessly via NPM for a streamlined setup process.
 
 <p align="center">
