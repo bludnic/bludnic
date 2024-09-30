@@ -25,7 +25,7 @@ I actively contribute to open-source projects like [ADAMANT Messenger](https://g
 
 For partnership, or if you need help installing the bot, don't hesitate to contact me. I'm always ready to help 😉.
 
-- 📧 [E-mail](mailto:contact@opentrader.pro)
+- 📧 [E-mail](mailto:opentraderpro@proton.me)
 - 💬 [Telegram](https://t.me/+cJLNxLSjcW83Njgy)
 
 # Stats
