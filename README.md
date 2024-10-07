@@ -4,6 +4,10 @@ I'm a dedicated JavaScript Developer, specializing in TypeScript, React, Vue, an
 
 I actively contribute to open-source projects like [ADAMANT Messenger](https://github.com/adamant-im/adamant-im) and [OpenTrader](https://github.com/bludnic/opentrader). If you are a trader, you may be interested in OpenTrader, an open-source crypto trading bot. Here are the key features:
 
+## 🤖 OpenTrader
+
+[OpenTrader](https://github.com/bludnic/opentrader) is an open-source crypto trading bot written in TypeScript, with support for 100+ exchanges via CCXT.
+
 - **✨ Robust UI:** A user-friendly interface for managing the bots.
 - **📊 Builtin Strategies:** Highly configurable trading strategies:
   - **📈 GridBot Strategy:** Buy and sell at predefined intervals to profit from market fluctuations.
