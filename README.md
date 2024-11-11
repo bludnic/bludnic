@@ -2,7 +2,7 @@
 
 I'm a dedicated JavaScript Developer, specializing in TypeScript, React, Vue, and Node.js. I stay updated with the latest development trends to keep my skills sharp.
 
-I actively contribute to open-source projects like [ADAMANT Messenger](https://github.com/adamant-im/adamant-im) and [OpenTrader](https://github.com/bludnic/opentrader). If you are a trader, you may be interested in OpenTrader, an open-source crypto trading bot. Here are the key features:
+I also contribute to open-source. If you are a trader, you may be interested in [OpenTrader](https://github.com/bludnic/opentrader), an open-source crypto trading bot 👇
 
 ## 🤖 OpenTrader
 
@@ -10,7 +10,8 @@ I actively contribute to open-source projects like [ADAMANT Messenger](https://g
 
 - **✨ Robust UI:** A user-friendly interface for managing the bots.
 - **📊 Builtin Strategies:** Highly configurable trading strategies:
-  - **📈 GridBot Strategy:** Buy and sell at predefined intervals to profit from market fluctuations.
+  - **📈 GridBot Strategy:** Make profits from market fluctuations by creating a grid of Buy/Sell orders.
+  - **📈 DCA Strategy:** Enters with multiple orders to average the entry price and sells on price swings.
   - **📉 RSI Strategy:** Place orders based on the RSI indicator value.
 - **🛠️ Custom Strategies:** Create your own strategy in a few lines of code (powered by an auto-generated UI).
 - **🌐 Multiple Exchanges:** Trade across various cryptocurrency exchanges.
@@ -27,7 +28,7 @@ I actively contribute to open-source projects like [ADAMANT Messenger](https://g
 
 # Connect with me 🌐
 
-For partnership, or if you need help installing the bot, don't hesitate to contact me. I'm always ready to help 😉.
+For partnership, or if you need help installing the bot, don't hesitate to contact me.
 
 - 📧 [E-mail](mailto:opentraderpro@proton.me)
 - 💬 [Telegram](https://t.me/+cJLNxLSjcW83Njgy)
