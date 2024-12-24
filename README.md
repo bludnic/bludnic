@@ -16,7 +16,8 @@ I also contribute to open-source. If you are a trader, you may be interested in 
 - **🛠️ Custom Strategies:** Create your own strategy in a few lines of code (powered by an auto-generated UI).
 - **🌐 Multiple Exchanges:** Trade across various cryptocurrency exchanges.
 - **📝 Paper Trading**: Test your strategies without risking real money.
-- **⚙️ Easy Installation:** Install effortlessly via NPM for a streamlined setup process.
+- **📊 Backtesting**: Backtest your strategies using historical data.
+- **⚙️ Easy Installation:** Install effortlessly via NPM.
 
 <p align="center">
   <a href="https://github.com/bludnic/opentrader" title="Try the bot">
